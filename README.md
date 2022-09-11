@@ -1,1 +1,1 @@
-##This is a React project, simplified fully-responsive Movie Application.
+## This is a React project, simplified fully-responsive Movie Application.
